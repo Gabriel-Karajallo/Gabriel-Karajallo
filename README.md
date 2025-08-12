@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Gabriel Karajallo
 
 💻 **Desarrollador de software** en Wortach  
-🚀 Trabajando con **.NET, C#, React y SQL Server**  
-📍 Basado en España  
+🚀 Trabajando con **.NET, C#, TypeScript, React y SQL Server**  
+📍 Soy Paraguayo en España :D  
 
 ---
 
