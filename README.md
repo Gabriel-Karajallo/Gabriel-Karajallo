@@ -11,6 +11,12 @@
 
 ---
 
+### Herramientas  
+[![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=sourcetree&logoColor=white)](https://www.sourcetreeapp.com)  
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com)  
+
+---
+
 ## 📌 Sobre mí
 - 🔍 Explorando el mundo del desarrollo de software, tanto para **web** como para **móvil**  
 - 🏋️‍♂️ En mi tiempo libre me gusta hacer **deporte** y **viajar**  
