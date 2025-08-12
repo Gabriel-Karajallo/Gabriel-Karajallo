@@ -12,7 +12,7 @@
 ---
 
 ## 📌 Sobre mí
-- 🔍 Explorando el mundo del desarrollo de software, tanto para **web** como para **móvil**  
+- 🔍 Explorando el mundo del desarrollo de software, tanto para **web** como para **mobile**  
 - 🏋️‍♂️ En mi tiempo libre me gusta hacer **deporte** y **viajar**  
 - 🎯 Me motiva aprender y mejorar cada día como programador  
 
