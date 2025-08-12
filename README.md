@@ -2,7 +2,7 @@
 
 💻 **Desarrollador de software** en Wortach  
 🚀 Trabajando con **.NET, C#, TypeScript, React y SQL Server**  
-📍 Soy Paraguayo en España :D  
+📍 Paraguay | España 
 
 ---
 
