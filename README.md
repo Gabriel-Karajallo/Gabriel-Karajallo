@@ -7,12 +7,12 @@
 ---
 
 ## 🛠️ Tecnologías y herramientas
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,php,react,angular,js,ts,html,css,sql,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,php,react,angular,js,ts,html,css,sql,git,github,sourcetree,postman)](https://skillicons.dev)
 
 ---
 
 ## 📌 Sobre mí
-- 🔍 Explorando el mundo del desarrollo de software, tanto para **web** como para **mobile**  
+- 🔍 Apasionado del desarrollo de software, tanto para **web** como para **mobile**  
 - 🏋️‍♂️ En mi tiempo libre me gusta hacer **deporte** y **viajar**  
 - 🎯 Me motiva aprender y mejorar cada día como programador  
 
