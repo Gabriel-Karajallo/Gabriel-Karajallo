@@ -1,6 +1,3 @@
-<!-- Banner animado -->
-<img src="https://i.imgur.com/PhX3TqX.gif" width="100%" alt="Banner de bienvenida">
-
 # 👋 ¡Hola! Soy Gabriel Karajallo
 
 💻 **Desarrollador de software** en Wortach  
