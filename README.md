@@ -1,7 +1,7 @@
-# 👋 ¡Hola! Soy Alberto Calero
-## 🚀 Full Stack Developer | JavaScript | TypeScript | React
+# 👋 ¡Hola! Soy Gabriel Karajallo
+## 🚀 Full Stack Developer C# | TypeScript | React 
  
-Soy un desarrollador full stack apasionado por crear aplicaciones web escalables y eficientes. Me encanta trabajar con **JavaScript**, **TypeScript**, **React** y otras tecnologías modernas para construir soluciones innovadoras.
+Soy un desarrollador full stack apasionado por crear aplicaciones web escalables y eficientes. Me encanta trabajar con **C#** **TypeScript**, **React** y otras tecnologías modernas para construir soluciones innovadoras.
  
 ---
 ## 🛠 Tecnologías
@@ -36,10 +36,10 @@ Soy un desarrollador full stack apasionado por crear aplicaciones web escalables
  
 <p align="center">
  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-calero-castillo-405373257/)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielkarajallo/)
  
  
-  [![Correo](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:albertocctrabajo@gmail.com)
+  [![Correo](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:c.gabrielkarajallo@gmail.com)
  
 </p>
 ---
