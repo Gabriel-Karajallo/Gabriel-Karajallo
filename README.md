@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ Tecnologías y herramientas
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,js,ts,html,css,sql,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,php,react,angular,js,ts,html,css,sql,git,github)](https://skillicons.dev)
 
 ---
 
