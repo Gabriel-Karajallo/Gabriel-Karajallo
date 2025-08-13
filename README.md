@@ -19,11 +19,11 @@
 ---
 
 ## 📂 Proyectos destacados
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [🌟 Proyecto Alpha](https://github.com/TU-USUARIO/proyecto-alpha) | Aplicación web con autenticación y panel de control | React, Node.js, MongoDB |
-| [📱 App Beta](https://github.com/TU-USUARIO/app-beta) | Aplicación móvil para gestión de tareas | React Native, TypeScript |
-| [📊 Sistema Gamma](https://github.com/TU-USUARIO/sistema-gamma) | Plataforma de reportes y análisis de datos | .NET, SQL Server, Entity Framework |
+| | Proyecto | Descripción | Tecnologías |
+|---|----------|-------------|-------------|
+| <img src="https://via.placeholder.com/200x120.png?text=Captura+Proyecto+1" alt="Proyecto Alpha" width="200"/> | [🌟 Proyecto Alpha](https://github.com/TU-USUARIO/proyecto-alpha) | Aplicación web con autenticación y panel de control | React, Node.js, MongoDB |
+| <img src="https://via.placeholder.com/200x120.png?text=Captura+Proyecto+2" alt="App Beta" width="200"/> | [📱 App Beta](https://github.com/TU-USUARIO/app-beta) | Aplicación móvil para gestión de tareas | React Native, TypeScript |
+| <img src="https://via.placeholder.com/200x120.png?text=Captura+Proyecto+3" alt="Sistema Gamma" width="200"/> | [📊 Sistema Gamma](https://github.com/TU-USUARIO/sistema-gamma) | Plataforma de reportes y análisis de datos | .NET, SQL Server, Entity Framework |
 
 ---
 
@@ -34,7 +34,8 @@
 ---
 
 ## 📫 Contacto
-[(https://img.shields.io/badge/LinkedIn-Gabriel%20Karajallo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-LINK)  
-[(https://img.shields.io/badge/Gmail-c.gabrielkarajallo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c.gabrielkarajallo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-LINK)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c.gabrielkarajallo@gmail.com)
+
 
 ---
