@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy Gabriel Karajallo 
-<img src="[https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif](https://tenor.com/es/view/coding-boy-coding-coder-coding-guy-gif-13476862946232937811)" width="200" alt="Programando feliz">
+<img align="right" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" alt="Programando feliz">
 
 💻 **Desarrollador de software** en Wortach  
 🚀 Trabajando con **.NET, C#, TypeScript, React y SQL Server**  
