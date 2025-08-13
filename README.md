@@ -34,7 +34,7 @@
 ---
 
 ## 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Karajallo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-LINK)  
-[![Gmail](https://img.shields.io/badge/Gmail-c.gabrielkarajallo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c.gabrielkarajallo@gmail.com)
+[(https://img.shields.io/badge/LinkedIn-Gabriel%20Karajallo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-LINK)  
+[(https://img.shields.io/badge/Gmail-c.gabrielkarajallo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c.gabrielkarajallo@gmail.com)
 
 ---
