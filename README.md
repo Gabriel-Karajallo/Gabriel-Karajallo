@@ -1,11 +1,12 @@
 # 👋 ¡Hola! Soy Gabriel Karajallo 
+
 <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHI2amo1NGQ2NjJpeXdxNHE0a2Y2MmQzMnh1NHhvZWl5cHBwMm54YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGsHjfmwF3VMCuNQA4/giphy.gif" width="200" alt="Programando feliz">
+
 
 
 💻 **Desarrollador de software** en Wortach  
 🚀 Trabajando con **.NET, C#, TypeScript, React y SQL Server**  
 📍 Paraguay | España 
-
 
 
 ## 🛠️ Tecnologías y herramientas
