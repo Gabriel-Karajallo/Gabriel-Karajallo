@@ -1,4 +1,6 @@
-# 👋 ¡Hola! Soy Gabriel Karajallo
+# 👋 ¡Hola! Soy Gabriel Karajallo 
+<!-- Animación divertida al final -->
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" alt="Programando feliz">
 
 💻 **Desarrollador de software** en Wortach  
 🚀 Trabajando con **.NET, C#, TypeScript, React y SQL Server**  
@@ -38,6 +40,3 @@
 📧 **tu.email@example.com**
 
 ---
-
-<!-- Animación divertida al final -->
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" alt="Programando feliz">
