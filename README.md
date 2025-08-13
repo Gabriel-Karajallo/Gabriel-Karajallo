@@ -5,7 +5,6 @@
 🚀 Trabajando con **.NET, C#, TypeScript, React y SQL Server**  
 📍 Paraguay | España 
 
----
 
 ## 🛠️ Tecnologías y herramientas
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,php,react,angular,js,ts,html,css,sql,git,github,postman)](https://skillicons.dev)
