@@ -1,5 +1,6 @@
 # 👋 ¡Hola! Soy Gabriel Karajallo 
 
+
 💻 **Desarrollador de software** en Wortach  
 🚀 Trabajando con **.NET, C#, TypeScript, React y SQL Server**  
 📍 Paraguay | España 
@@ -11,9 +12,9 @@
 ---
 
 ## 📌 Sobre mí
-- 🔍 Apasionado del desarrollo de software, tanto para **web** como para **mobile**  
-- 🏋️‍♂️ En mi tiempo libre me gusta hacer **deporte** y **viajar**  
-- 🎯 Me motiva aprender y mejorar cada día como programador  
+🔍 Apasionado del desarrollo de software, tanto para **web** como para **mobile**  
+🏋️‍♂️ En mi tiempo libre me gusta hacer **deporte** y **viajar**  
+🎯 Me motiva aprender y mejorar cada día como programador  
 
 ---
 
@@ -27,13 +28,13 @@
 ---
 
 ## 📊 Estadísticas de GitHub
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical)
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=Gabriel-Karajallo&show_icons=true&theme=radical)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Karajallo&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-LINK)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielkarajallo/))  
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c.gabrielkarajallo@gmail.com)
 
 
