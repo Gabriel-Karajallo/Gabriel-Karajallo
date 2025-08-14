@@ -32,11 +32,11 @@
 - Desarrollo de **apps móviles** multiplataforma  
 
 ### 🧳 Hobbies  
-- 🏋️‍♂️ **Deporte** – gimnasio, entrenamiento funcional y actividades al aire libre  
-- 🌍 **Viajar** – descubrir nuevas culturas, paisajes y experiencias  
-- 🎶 **Conciertos** – disfrutar de la música en vivo  
-- 🍿 **Cine** – fan del buen cine y las buenas historias  
-- 🎮 **Videojuegos** – juegos cooperativos, de estrategia y aventura  
+- 🏋️‍♂️ **Deporte**  
+- 🌍 **Viajar** 
+- 🎶 **Conciertos** 
+- 🍿 **Cine** 
+- 🎮 **Videojuegos** 
 
 ---
 
