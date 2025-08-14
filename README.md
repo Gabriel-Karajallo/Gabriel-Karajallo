@@ -13,9 +13,26 @@
 ---
 
 ## 📌 Sobre mí
-🔍 Apasionado del desarrollo de software, tanto para **web** como para **mobile**  
-🏋️‍♂️ En mi tiempo libre me gusta hacer **deporte** y **viajar**  
-🎯 Me motiva aprender y mejorar cada día como programador  
+
+### 🎯 Objetivos  
+- Seguir creciendo como **desarrollador de software**, tanto en **web** como en **mobile**  
+- Aprender nuevas tecnologías y buenas prácticas de desarrollo  
+- Contribuir a proyectos interesantes y desafiantes  
+- Mejorar cada día en lo personal y profesional
+
+### 🧠 Intereses  
+- Desarrollo **frontend** y **backend**  
+- Diseño de interfaces **intuitivas y accesibles**  
+- Inteligencia artificial y **automatización**  
+- Desarrollo de **apps móviles** multiplataforma  
+
+### 🧳 Hobbies  
+- 🏋️‍♂️ **Deporte** – gimnasio, entrenamiento funcional y actividades al aire libre  
+- 🌍 **Viajar** – descubrir nuevas culturas, paisajes y experiencias  
+- 🎶 **Conciertos** – disfrutar de la música en vivo  
+- 🍿 **Cine** – fan del buen cine y las buenas historias  
+- 🎮 **Videojuegos** – juegos cooperativos, de estrategia y aventura  
+
 
 ---
 
